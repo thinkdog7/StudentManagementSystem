@@ -1,5 +1,5 @@
 # StudentManagementSystem
-使用java编写的学生管理系统
+使用java编写的学生管理系统，使用的软件为IDEA。
 ## 业务操作以及业务分析
 采取控制台的方式去书写学生管理系统。
 ## 分析
